@@ -9,5 +9,8 @@ in the main pane.
 Select "Show all".  Re-use an existing interpreter or create one by clicking on the '+' in the bottom.
 
 If a new interpreter is added, in the pop-up window, make sure 'New Environment' is selected.  Choose a base interpreter of your choice.
-Click "Okay", "Okay" again in the next selection page, and "Apply" and "Okay" in the final selection page.  
+Click "Okay", "Okay" again in the next selection page, and "Apply" and "Okay" in the final selection page.
+
+
+
 
